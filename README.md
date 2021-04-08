@@ -1,8 +1,9 @@
 
 #### Hi there 👋
 
-### My name is Igor Omelchenko 
-### I'm AWS Architect | Serverless enthusiast | Fullstack JS developer
+My name is Igor Omelchenko 
+
+I'm AWS Architect | Serverless enthusiast | Fullstack JS developer
 
 Personal info: [megapixel23.com](https://megapixel23.com)
 
